@@ -1,4 +1,7 @@
 # Experiment 9: PL/SQL – Procedures and Functions
+## NAME : HARIRAM R
+## REGISTRATION NUMBER : 212224240050
+
 
 ## AIM
 To understand and implement procedures and functions in PL/SQL for performing various operations such as calculations, decision-making, and looping.
